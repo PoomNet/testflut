@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "800495458567",
+    "firebase_url": "https://health-care-39552.firebaseio.com",
+    "project_id": "health-care-39552",
+    "storage_bucket": "health-care-39552.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800495458567:android:f78dc4a0e5b93872",
+        "android_client_info": {
+          "package_name": "com.example.health_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800495458567-9o3g2eijn0qvg1nrareapfh2kld3dh5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxhZJnvKBozq8YGmal-M4VxTRAcsWRBdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800495458567-9o3g2eijn0qvg1nrareapfh2kld3dh5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800495458567:android:112a384a45db9ab0",
+        "android_client_info": {
+          "package_name": "com.example.helllo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800495458567-9o3g2eijn0qvg1nrareapfh2kld3dh5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxhZJnvKBozq8YGmal-M4VxTRAcsWRBdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800495458567-9o3g2eijn0qvg1nrareapfh2kld3dh5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
